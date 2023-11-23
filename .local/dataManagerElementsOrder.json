@@ -1,0 +1,29 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "iContador&Sequence_2",
+        "getId&Sequence_5",
+        "getApr&Sequence_4",
+        "variable1&Sequence_6",
+        "tabelaPedidosEmprestimo&Sequence_2",
+        "urlNavegador&Sequence_2",
+        "nomePlanilha&Sequence_2",
+        "srcCaminhoExcel&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
